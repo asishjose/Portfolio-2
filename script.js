@@ -44,6 +44,8 @@ function toggleMenu() {
         if (!valid) e.preventDefault();
     });
 
+    
+
 /* ajax script for returning to portfolio website after submitting form*/
 
         $("#contactForm").submit((e)=>{
